@@ -1,4 +1,4 @@
-## Hi I'm Henry 👋
+## Hi, I'm Henry 👋
 
 <!--
 **1amHex/1amHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
